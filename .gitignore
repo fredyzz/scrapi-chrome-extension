@@ -1,0 +1,8 @@
+// System Files
+.DS_Store
+
+// Config files
+env.js
+
+// User files
+results
